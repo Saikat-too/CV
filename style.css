@@ -65,6 +65,40 @@ body{
     line-height: 1.4em;
 
 }
+.contactInfo{
+    padding-top: 40px;
+}
+.title{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.contactInfo u1{
+    position: relative;
+
+}
+.contactInfo u1 li{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+
+
+}
+.contactInfo u1 li .icon{
+
+    display: inline-block;
+    width: 30px;
+    height: 18px;
+    color: aqua;
+}
+.contactInfo u1 li span{
+
+    color: #fff;
+    font-weight: 300;
+}
 .container .right_side
 {
     position: relative;
